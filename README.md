@@ -17,11 +17,11 @@ I am a computer engineering student having more than 6 months of experience in p
 <strong>Team projects, particularly open-source</strong>.
 </p>
 
+&nbsp;&nbsp;
 <div align="left">
 
-&nbsp;&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/thisisnadirozsoy-%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thisisnadirozsoy/)
-&nbsp;&nbsp;
+
 [![Instagram Badge](https://img.shields.io/badge/thisisnadirozsoy-instagram-red?style=for-the-badge&logo=instagram)](https://instagram.com/thisisnadirozsoy/)
 
 </div>
