@@ -19,19 +19,12 @@ I am a computer engineering student having more than 6 months of experience in p
 
 <div align="left">
 
-[![user:20795442's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/20795442?theme=monokai&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
+[![Linkedin Badge](https://img.shields.io/badge/thisisnadirozsoy-%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thisisnadirozsoy/)
+
+[![Instagram Badge](https://img.shields.io/badge/thisisnadirozsoy-instagram-red?style=for-the-badge&logo=instagram)](https://instagram.com/thisisnadirozsoy/)
 
 </div>
 
-<p align="left">
-
-  <a href="https://www.linkedin.com/in/thisisnadirozsoy/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="https://instagram.com/thisisnadirozsoy/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>
-</div>
 
 ![profile 3d contrib](profile-3d-contrib/profile-night-rainbow.svg)
 
