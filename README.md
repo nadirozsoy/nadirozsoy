@@ -1,27 +1,37 @@
-### Hi! Welcome to my github page. 👋
+<div align="Center">
 
- **I'm Nadir Özsoy.** 
- **A Computer Engineer in living in Turkey for now**
 
-<img align="right" alt="GIF" src="./code.gif" width="400"/>
+ #### उद्यमेन हि सिध्यन्ति कार्याणि न मनोरथैः। न हि सुप्तस्य सिंहस्य प्रविशन्ति मुखे मृगा:।।
+<br>
 
-##  I’m currently learning Front End Development.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-### Skills
+<p align="left"> 
+Turkish front-end developer who is exploring the world of <strong>JavaScript.</strong>
+I am a computer science student having more than 6 months of experience in programming languages.
+</p>
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<img alt="Git" width="36" height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<a href="https://github.com/nadirozsoy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadirozsoy&langs_count=5&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/nadirozsoy"><img src="https://github-readme-stats.vercel.app/api?username=nadirozsoy&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="nadirozsoy's GitHub stats" /></a>
+<p align="left">
+🔵 Available for :
+<strong>Team projects, particularly open-source</strong>.
+</p>
 
-## Contact Me 📫
+<div align="left">
 
-***You can find and get touch with me via Linkedin and Instagram!***
+[![user:20795442's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/20795442?theme=monokai&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
 
-[![Linkedin Badge](https://img.shields.io/badge/nadirozsoy-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thisisnadirozsoy/)
-[![Instagram Badge](https://img.shields.io/badge/nadirozsoy-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/thisisnadirozsoy/)
+</div>
+
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/thisisnadirozsoy/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="https://instagram.com/thisisnadirozsoy/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>
+</div>
+
+![profile 3d contrib](profile-3d-contrib/profile-night-rainbow.svg)
+
