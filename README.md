@@ -8,7 +8,7 @@
 
 <p align="left"> 
 Turkish front-end developer who is exploring the world of <strong>JavaScript.</strong>
-I am a computer engineer having more than 2 years of experience in programming languages.
+I am a computer engineer having more than 4 years of experience in programming languages.
 </p>
 
 
