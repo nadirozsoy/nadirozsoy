@@ -14,7 +14,7 @@ I am a computer engineer having more than 4 years of experience in programming l
 
 <p align="left">
 🔵 Available for :
-<strong>Team projects, particularly open-source</strong>.
+<strong>Team projects</strong>.
 </p>
 
 &nbsp;&nbsp;
