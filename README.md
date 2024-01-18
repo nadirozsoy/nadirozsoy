@@ -13,7 +13,7 @@ I am a computer engineer having more than 4 years of experience in programming l
 
 <p align="left">
 🔵 Available for :
-<strong>Team projects,ERP Projects,Web applications</strong>.
+<strong>Team projects, ERP Projects, Web applications</strong>.
 </p>
 
 &nbsp;&nbsp;
