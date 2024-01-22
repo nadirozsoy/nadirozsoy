@@ -8,6 +8,7 @@
 <p align="left"> 
 Turkish front-end developer who is exploring the world of <strong>JavaScript.</strong>
 I am a computer engineer having more than 4 years of experience in programming languages.
+I like to be useful to people and provide quality content. I am familiar with many frontend technologies.
 </p>
 
 
