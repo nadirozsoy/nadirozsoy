@@ -3,7 +3,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.hizliresim.com/skak0lv.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 <p align="left"> 
 Turkish front-end developer who is exploring the world of <strong>JavaScript.</strong>
