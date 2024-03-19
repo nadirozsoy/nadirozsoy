@@ -22,8 +22,6 @@ I am familiar with many frontend technologies.
 
 [![Linkedin Badge](https://img.shields.io/badge/thisisnadirozsoy-%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thisisnadirozsoy/)
 
-[![Instagram Badge](https://img.shields.io/badge/thisisnadirozsoy-instagram-red?style=for-the-badge&logo=instagram)](https://instagram.com/thisisnadirozsoy/)
-
 </div>
 
 
