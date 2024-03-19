@@ -3,7 +3,7 @@
 
 <br>
 
-<img src="https://i.hizliresim.com/skak0lv.png" min-width="400px" max-width="400px" width="400px" style="margin-bottom: 15px;" align="right" alt="Computer">
+<img src="https://i.hizliresim.com/skak0lv.png" min-width="400px" max-width="400px" width="400px" style="padding-bottom: 15px;" align="right" alt="Computer">
 
 <p align="left"> 
 Turkish front-end developer who is exploring the world of <strong>JavaScript.</strong>
