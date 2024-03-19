@@ -20,7 +20,7 @@ I am familiar with many frontend technologies.
 &nbsp;&nbsp;
 <div align="left">
 
-[![Linkedin Badge](https://img.shields.io/badge/thisisnadirozsoy-%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thisisnadirozsoy/){:target="_blank"}
+[![Linkedin Badge](https://img.shields.io/badge/thisisnadirozsoy-%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thisisnadirozsoy/)
 
 </div>
 
