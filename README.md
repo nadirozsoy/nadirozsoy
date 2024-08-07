@@ -10,6 +10,7 @@ I'm Nadir Özsoy, a passionate front-end developer with a focus on modern web te
 
 <br>
 
+
 ## 🏆 GitHub Trophies
 
 ![Your Name's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nadirozsoy&theme=onedark&no-frame=true&margin-w=15)
