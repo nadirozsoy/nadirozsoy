@@ -8,7 +8,7 @@ I'm Nadir Özsoy, a passionate front-end developer with a focus on modern web te
 
 <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" align="right" alt="Computer">
 
-<br/>
+<br>
 
 ## 🏆 GitHub Trophies
 
