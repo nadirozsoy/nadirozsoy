@@ -6,7 +6,7 @@ I'm Nadir Özsoy, a passionate front-end developer with a focus on modern web te
 
 <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" align="right" alt="Computer">
 
-<div style="margin-top: 60px;"></div>
+<div style="padding-top: 60px;"></div>
 
 ## 🏆 GitHub Trophies
 
