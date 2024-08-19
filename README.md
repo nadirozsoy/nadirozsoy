@@ -47,5 +47,5 @@ I'm Nadir Özsoy, a passionate front-end developer with a focus on modern web te
 
 ## 📬 Get in Touch
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/nadirozsoy/)
-- Email: [Your Email](mailto:nadirozsoy1@gmail.com)
+- LinkedIn: [nadirozsoy](https://www.linkedin.com/in/nadirozsoy/)
+- Email: [nadirozsoy1@gmail.com](mailto:nadirozsoy1@gmail.com)
