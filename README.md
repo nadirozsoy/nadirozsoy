@@ -6,10 +6,6 @@ I'm Nadir Özsoy, a passionate front-end developer with a focus on modern web te
 
 <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Computer" style="margin-bottom: 40px;">
 
-## 🏆 GitHub Trophies
-
-![Your Name's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nadirozsoy&theme=onedark&no-frame=true&margin-w=15)
-
 ## 🛠️ Technologies & Tools
 
 <div align="Center">
